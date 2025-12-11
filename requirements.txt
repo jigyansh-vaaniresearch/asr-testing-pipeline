@@ -1,0 +1,13 @@
+deepgram-sdk
+assemblyai
+speechmatics-python
+google-cloud-speech
+groq
+sarvamai
+websockets
+httpx
+python-dotenv
+pyyaml
+jiwer
+numpy
+scipy

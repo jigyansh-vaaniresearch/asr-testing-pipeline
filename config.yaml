@@ -1,0 +1,54 @@
+experiment:
+  audio_input_path: "audio_samples2/02-12317-01.wav"
+  ground_truth_path: "ground_truth2/02-12317-01.txt"
+  # This controls the simulation speed. 
+  # 3200 bytes / (16000 Hz * 2 bytes/sample) = 0.1 seconds (100ms)
+  chunk_size: 3200 
+  chunk_duration: 0.1 
+  sample_rate: 16000
+  language: "hi"
+
+# CHANGE THIS to switch models
+active_model: "gladia"
+
+models:
+  deepgram:
+    provider: "deepgram"
+    model_name: "nova-2"
+    language: "hi"
+    smart_format: true
+
+  assemblyai:
+    provider: "assemblyai"
+    sample_rate: 16000
+
+  gladia:
+    provider: "gladia"
+    encoding: "wav/pcm"
+    sample_rate: 16000
+
+  sarvam:
+    provider: "sarvam"
+    model_name: "saarika:v2.5"
+    language_code: "hi-IN"
+
+  google:
+    provider: "google"
+    model: "latest_long"
+    language_code: "hi-IN"
+
+  speechmatics:
+    provider: "speechmatics"
+    language: "hi"
+
+  groq:
+    provider: "groq"
+    model_name: "whisper-large-v3"
+    language: "hi"
+
+
+  elevenlabs:
+    provider: "elevenlabs"
+    model_id: "scribe_v2" 
+    sample_rate: 16000
+

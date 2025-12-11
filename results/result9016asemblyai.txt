@@ -1,0 +1,35 @@
+🚀 Starting Pipeline for: assemblyai
+✅ AssemblyAI Connected (Universal Streaming)
+🎙️  Streaming: audio_samples/20250620-124448_9748471206_9016-all.wav
+
+[LATENCY]: 9449.71 ms
+[AAI Final]: hello
+[AAI Final]: Hello.
+[AAI Final]: good afternoon
+[AAI Final]: Good afternoon.
+[AAI Final]: i'm in a bowl new work india sir
+[AAI Final]: I'm in a bowl. New work? India, sir.
+[AAI Final]: of next pest control technician kili japos k tena completely
+[AAI Final]: Of next pest control technician Kili Japos K? Tena completely.
+[AAI Final]: said the case do you plan purchase kapo twenty third june expire honeywell
+[AAI Final]: Said the case. Do you plan purchase kapo 23rd June expire. Honeywell.
+[AAI Partial]: if when i boost for option hotels available here rpc use kijobi pest control technician kili jakob notification jati okay incoming calls or hiring [AAI Partial]: if when i boost for option hotels available here rpc use kijobi pest control technician kili jakob notification jati okay incoming calls or hiring [AAI Partial]: if when i boost for option hotels available here rpc use kijobi pest control technician kili jakob notification jati okay incoming calls or hiring [AAI Partial]: if when i boost for option hotels available here rpc use kijobi pest control technician kili jakob notification jati okay incoming calls or hiring [AAI Final]: if when i boost for option hotels available here rpc use kijobi pest control technician kili jakob notification jati okay incoming calls or hiring k chances boho
+[AAI Final]: If when I boost for option hotels available here RPC use Kijobi Pest control Technician Kili Jakob notification Jati okay incoming calls or hiring K Chances Boho.
+[AAI Final]: digital okay our database shift twenty four here unlock ki two hundred data map sir plan kurini wal karana chara and kabia
+[AAI Final]: Digital okay our database shift 24 here unlock ki 200 data map sir plan Kurini, Wal, Karana, Chara and Kabia.
+[AAI Final]: kapak twenty third code
+[AAI Final]: Kapak 23rd code.
+[AAI Final]: because they get twenty third separate plan purchase curtains offer discount milchia pipeline offer merita
+[AAI Final]: Because they get 23rd separate plan purchase Curtains offer discount Milchia Pipeline offer Merita.
+[AAI Partial]: mandija agar aji to twenty three the cup three use kasakte one month k plan code twenty four say renewal hojagar aggre payment karma plan purchase [AAI Partial]: mandija agar aji to twenty three the cup three use kasakte one month k plan code twenty four say renewal hojagar aggre payment karma plan purchase [AAI Partial]: mandija agar aji to twenty three the cup three use kasakte one month k plan code twenty four say renewal hojagar aggre payment karma plan purchase [AAI Final]: mandija agar aji to twenty three the cup three use kasakte one month k plan code twenty four say renewal hojagar aggre payment karma plan purchase karma disregard
+[AAI Final]: Mandija Agar Aji to 23 the cup 3 use Kasakte 1 month K plan code 24 say renewal Hojagar Aggre payment karma plan purchase karma disregard.
+[AAI Final]: okay
+[AAI Final]: Okay?
+[AAI Final]: sure
+[AAI Final]: Sure.
+[AAI Final]: sir
+[AAI Final]: Sir.
+[AAI Final]: sure thank you have a great week
+[AAI Final]: Sure. Thank you. Have a great week.
+
+🛑 Audio finished. Waiting for final transcript...
